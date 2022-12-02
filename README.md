@@ -1,11 +1,11 @@
 ## hi, i'm neha 👋
 i am a full-stack software engineer versed in java, javascript, and swift.
 
-**reach me at:**
-📧 email: neha.washikar@gmail.com   
+**reach me at:** <br>
+📧 email: neha.washikar@gmail.com   <br>
 💻 linkedin: [Neha Washikar](www.linkedin.com/in/nehawashikar/)
 
-**fun fact:**
+**fun fact:** <br>
 🪂 i've been sky diving!  
 
 <!--
