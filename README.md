@@ -3,7 +3,7 @@ i am a full-stack software engineer versed in java, javascript, and swift.
 
 **reach me at:** <br>
 📧 email: neha.washikar@gmail.com   <br>
-💻 linkedin: [Neha Washikar](www.linkedin.com/in/nehawashikar/)
+💻 linkedin: [Neha Washikar](https://www.linkedin.com/in/nehawashikar/)
 
 **fun fact:** <br>
 🪂 i've been sky diving!  
