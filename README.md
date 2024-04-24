@@ -1,5 +1,5 @@
 ## hi, i'm neha 👋
-i am a full-stack software engineer versed in java, javascript, mysql, and python.
+i am a software engineer versed in python, java, javascript, and sql.
 
 **reach me at:** <br>
 📧 email: neha.washikar@gmail.com   <br>
